@@ -1,0 +1,2 @@
+this is file is not tracked so it will appear in git status with that message
+
